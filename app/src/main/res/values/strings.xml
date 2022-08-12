@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string-array name="UFs">
+        <item>SP</item>
+        <item>BA</item>
+        <item>AM</item>
+        <item>RJ</item>
+        <item>SC</item>
+        <item>PB</item>
+    </string-array>
+</resources>
